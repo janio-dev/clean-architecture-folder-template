@@ -1,3 +1,4 @@
+```bash
 src/
 ├── application/           # Casos de Uso, DTOs, Exceções, e Gateways
 │   ├── dto/               # Data Transfer Objects (DTOs)
