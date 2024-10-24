@@ -43,7 +43,7 @@ infraestrutura ou interfaces. Seus principais componentes são:
 A camada de aplicação é responsável por orquestrar o fluxo de dados entre
 o domínio e as interfaces. Ela contém:
 
-- *DTOs (dto/):* Objetos de Transferência de Dados usados para entrada e saída de dados entre camadas.
-- *Exceções (exceptions/):* Exceções específicas de lógica de aplicação, como falhas ao logar um usuário.
-- *Gateways (gateways/):* Interfaces para comunicação com serviços externos, como APIs de pagamento.
-- *Use Cases (use-cases/):* Casos de uso que contêm a lógica de aplicação, organizando a interação entre domínio e infraestrutura.
+- **DTOs (dto/):** Objetos de Transferência de Dados usados para entrada e saída de dados entre camadas.
+- Exceções (exceptions/): Exceções específicas de lógica de aplicação, como falhas ao logar um usuário.
+- Gateways (gateways/): Interfaces para comunicação com serviços externos, como APIs de pagamento.
+- Use Cases (use-cases/): Casos de uso que contêm a lógica de aplicação, organizando a interação entre domínio e infraestrutura.
