@@ -23,6 +23,7 @@ src/
 ├── interface/             # Controladores e Apresentadores para API
 ├── shared/                # Utilitários, Constantes, Middleware e Interceptores
 └── test/                  # Testes unitários e de integração
+```
 
 ## Camada de Domínio (domain/)
 
